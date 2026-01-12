@@ -4,7 +4,7 @@
 Este proyecto utiliza ténicas de machine learning para detectar fraudes en un dataset de tarjetas de crédito. El modelo creado maximiza la detección de fraudes (recall) mientras se manejan datos desbalanceados.
 
 ### Dataset
-Puedes encontrar el dataset en la carpeta 'Data' o en el siguiente enlace: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+Puedes encontrar el dataset en el siguiente enlace: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 ### Metodología
 1. **Preprocesamiento**: Se estandarizaron las columnas numéricas ('Amount, 'Time) y se aplico la ténica SMOTE para tratar el desbalanceo.
